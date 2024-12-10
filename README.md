@@ -18,8 +18,13 @@ Ejecutar los siguientes pasos
 - Crear un archivo de variables de entorno con los siguientes datos o con los propios que tenga el entorno donde se instala la API:
 
 PORT=3000
+
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD=root
+
 DB_DATABASE=companydb
+
 DB_PORT=3306
